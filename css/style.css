@@ -12,7 +12,6 @@
 .row-content1{
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
     min-height: 400px;
 }
 
@@ -41,4 +40,9 @@ body{
 }
 .navbar-dark{
     background-color: #512DA8;
+}
+
+.reserve{
+    padding-right: 40px;
+    padding-left: 40px;
 }
